@@ -1,2 +1,3 @@
 # vivek---demo
-this is my repository 
+this is my first  repository 
+Author - VIVEK CHARY
